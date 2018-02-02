@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import styles from '../../../../css/distributionConfig.css';
-import {fieldLabel, typeAheadField} from '../../../../css/field.css';
+import styles from '../../../../css/distributionConfig.scss';
+import {fieldLabel, typeAheadField} from '../../../../css/field.scss';
 
 import TextInput from '../../../field/input/TextInput';
 import ProjectConfiguration from '../ProjectConfiguration';

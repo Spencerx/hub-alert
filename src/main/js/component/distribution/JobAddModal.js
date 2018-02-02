@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 
 import TextInput from '../../field/input/TextInput';
 
-import {modalContainer, fontAwesomeLabel} from '../../../css/main.css';
-import {fieldLabel, typeAheadField} from '../../../css/field.css';
+import {modalContainer, fontAwesomeLabel} from '../../../css/main.scss';
+import {fieldLabel, typeAheadField} from '../../../css/field.scss';
 
 import Select from 'react-select-2';
 import 'react-select-2/dist/css/react-select-2.css';

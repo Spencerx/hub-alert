@@ -1,5 +1,5 @@
 import React from 'react';
-import { textInput } from '../../css/field.css';
+import { textInput } from '../../css/field.scss';
 import LabeledField from './LabeledField';
 
 class ReadOnlyField extends LabeledField {

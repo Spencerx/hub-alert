@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { numberInput } from '../../../css/field.css';
+import { numberInput } from '../../../css/field.scss';
 import LabeledField from '../LabeledField';
 
 export default class NumberInput extends LabeledField {

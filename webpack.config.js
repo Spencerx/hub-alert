@@ -31,9 +31,8 @@ module.exports = {
                         }
                     }
                 ]
-            },
-            {
-                test: /\.css$/,
+            },{
+                test: /\.scss$/,
                 exclude: /node_modules/,
                 use: [
                     {
@@ -46,7 +45,8 @@ module.exports = {
                             importLoaders: 1,
                             localIdentName: '[name]__[local]___[hash:base64:5]'
                         }
-                    }
+                    },
+                    {loader: 'sass-loader'}
                 ]
             },
             {

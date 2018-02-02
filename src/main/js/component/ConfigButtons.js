@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { submitContainers, submitButtons, submitContainersFixed, submitButtonsFixed } from '../../css/main.css';
+import { submitContainers, submitButtons, submitContainersFixed, submitButtonsFixed } from '../../css/main.scss';
 
 export default class ConfigButtons extends Component {
     constructor(props) {

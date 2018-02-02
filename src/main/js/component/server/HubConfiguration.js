@@ -8,7 +8,7 @@ import TextInput from '../../field/input/TextInput';
 import ReadOnlyField from '../../field/ReadOnlyField'
 import ServerConfiguration from './ServerConfiguration';
 
-import { alignCenter } from '../../../css/main.css';
+import { alignCenter } from '../../../css/main.scss';
 
 class HubConfiguration extends ServerConfiguration {
 	constructor(props) {

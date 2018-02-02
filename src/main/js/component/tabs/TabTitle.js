@@ -1,7 +1,7 @@
 'use strict';
 
 import React, { Component } from 'react';
-import { channelTabs, tabTitle, titleText, tabIcon } from '../../../css/tabs.css';
+import { channelTabs, tabTitle, titleText, tabIcon } from '../../../css/tabs.scss';
 
 class TabTitle extends Component {
     constructor(props) {

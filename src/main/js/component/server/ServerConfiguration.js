@@ -3,8 +3,8 @@
 import React from 'react';
 import ConfigButtons from '../ConfigButtons';
 import Configuration from '../Configuration';
-import { alignCenter, progressIcon } from '../../../css/main.css';
-import { content_block } from '../../../css/server_config.css';
+import { alignCenter, progressIcon } from '../../../css/main.scss';
+import { content_block } from '../../../css/server_config.scss';
 
 class ServerConfiguration extends Configuration {
     constructor(props) {

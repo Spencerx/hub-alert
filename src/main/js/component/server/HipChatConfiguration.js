@@ -6,7 +6,7 @@ import NumberInput from '../../field/input/NumberInput';
 import TextInput from '../../field/input/TextInput';
 import ServerConfiguration from './ServerConfiguration';
 
-import { alignCenter } from '../../../css/main.css';
+import { alignCenter } from '../../../css/main.scss';
 
 class HipChatConfiguration extends ServerConfiguration {
 	constructor(props) {

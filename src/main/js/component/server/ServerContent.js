@@ -9,9 +9,9 @@ import HipChatConfiguration from './HipChatConfiguration';
 import SlackConfiguration from './SlackConfiguration';
 import Header from '../Header';
 
-import { table } from '../../../css/main.css';
-import { subTab, subTabSelected, subTable, subTabContainer, subTabScrollableContainer } from '../../../css/tabs.css';
-import { content_block } from '../../../css/server_config.css';
+import { table } from '../../../css/main.scss';
+import { subTab, subTabSelected, subTable, subTabContainer, subTabScrollableContainer } from '../../../css/tabs.scss';
+import { content_block } from '../../../css/server_config.scss';
 
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 

@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 
-import { submitButtons, submitContainers, header, fixedHeader, title, blackduckLogo, loginSpacer } from '../../css/header.css';
+import { submitButtons, submitContainers, header, fixedHeader, title, blackduckLogo, loginSpacer } from '../../css/header.scss';
 
 class Header extends Component {
 	//constructor is part of the Component lifecycle

@@ -2,8 +2,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { missingHubData, fontAwesomeLabel } from '../../../../css/main.css';
-import {fieldLabel, typeAheadField, fieldError, inline} from '../../../../css/field.css';
+import { missingHubData, fontAwesomeLabel } from '../../../../css/main.scss';
+import {fieldLabel, typeAheadField, fieldError, inline} from '../../../../css/field.scss';
 import TextInput from '../../../field/input/TextInput';
 
 import Select from 'react-select-2';

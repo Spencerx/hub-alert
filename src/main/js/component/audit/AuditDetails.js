@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import { fontAwesomeLabel } from '../../../css/main.css';
-import { inline } from '../../../css/audit.css';
-import tableStyles from '../../../css/table.css';
+import { fontAwesomeLabel } from '../../../css/main.scss';
+import { inline } from '../../../css/audit.scss';
+import tableStyles from '../../../css/table.scss';
 
 import TextInput from '../../field/input/TextInput';
 import LabeledField from '../../field/LabeledField';

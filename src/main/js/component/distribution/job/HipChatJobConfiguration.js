@@ -2,7 +2,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import {fieldLabel, typeAheadField} from '../../../../css/field.css';
+import {fieldLabel, typeAheadField} from '../../../../css/field.scss';
 
 import TextInput from '../../../field/input/TextInput';
 import CheckboxInput from '../../../field/input/CheckboxInput';

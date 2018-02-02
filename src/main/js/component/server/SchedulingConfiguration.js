@@ -5,8 +5,8 @@ import TextInput from '../../field/input/TextInput';
 import LabeledField from '../../field/LabeledField';
 import ServerConfiguration from './ServerConfiguration';
 
-import { accumulatorFieldLabel, textInput, fieldError, labelField, accumulatorTypeAheadField} from '../../../css/field.css';
-import { alignCenter, submitButtons } from '../../../css/main.css';
+import { accumulatorFieldLabel, textInput, fieldError, labelField, accumulatorTypeAheadField} from '../../../css/field.scss';
+import { alignCenter, submitButtons } from '../../../css/main.scss';
 
 import Select from 'react-select-2';
 import 'react-select-2/dist/css/react-select-2.css';

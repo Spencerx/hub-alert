@@ -12,8 +12,8 @@ import SlackConfiguration from './component/server/SlackConfiguration';
 import Header from './component/Header';
 import ServerContent from './component/server/ServerContent';
 
-import styles from '../css/main.css';
-import { tabContainer, configTabs, tabContent, tabSelected } from '../css/tabs.css';
+import styles from '../css/main.scss';
+import { tabContainer, configTabs, tabContent, tabSelected } from '../css/tabs.scss';
 
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 

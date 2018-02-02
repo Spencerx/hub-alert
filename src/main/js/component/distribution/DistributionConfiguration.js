@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-import { progressIcon, fontAwesomeLabel } from '../../../css/main.css';
+import { progressIcon, fontAwesomeLabel } from '../../../css/main.scss';
 
-import styles from '../../../css/distributionConfig.css';
+import styles from '../../../css/distributionConfig.scss';
 
-import tableStyles from '../../../css/table.css';
+import tableStyles from '../../../css/table.scss';
 
 import GroupEmailJobConfiguration from './job/GroupEmailJobConfiguration';
 import HipChatJobConfiguration from './job/HipChatJobConfiguration';

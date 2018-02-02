@@ -7,8 +7,8 @@ import PasswordInput from '../../field/input/PasswordInput';
 import TextInput from '../../field/input/TextInput';
 import ServerConfiguration from './ServerConfiguration';
 
-import { alignCenter, hidden, advancedWrapper, advanced } from '../../../css/main.css';
-import { advancedLink } from '../../../css/server_config.css';
+import { alignCenter, hidden, advancedWrapper, advanced } from '../../../css/main.scss';
+import { advancedLink } from '../../../css/server_config.scss';
 
 class EmailConfiguration extends ServerConfiguration {
 	constructor(props) {

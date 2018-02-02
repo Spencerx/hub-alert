@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-import { progressIcon, fontAwesomeLabel } from '../../../css/main.css';
-import styles from '../../../css/distributionConfig.css';
-import tableStyles from '../../../css/table.css';
-import auditStyles from '../../../css/audit.css';
+import { progressIcon, fontAwesomeLabel } from '../../../css/main.scss';
+import styles from '../../../css/distributionConfig.scss';
+import tableStyles from '../../../css/table.scss';
+import auditStyles from '../../../css/audit.scss';
 
 import CheckboxInput from '../../field/input/CheckboxInput';
 import EditTableCellFormatter from '../EditTableCellFormatter';

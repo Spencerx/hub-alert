@@ -11,7 +11,7 @@ import ConfigButtons from './component/ConfigButtons';
 import Configuration from './component/Configuration';
 import Header from './component/Header';
 
-import styles from '../css/main.css';
+import styles from '../css/main.scss';
 
 class LoginPage extends Configuration {
 	//constructor is part of the Component lifecycle

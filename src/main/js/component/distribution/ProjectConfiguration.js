@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import styles from '../../../css/distributionConfig.css';
-import tableStyles from '../../../css/table.css';
-import { progressIcon, missingHubData, fontAwesomeLabel } from '../../../css/main.css';
+import styles from '../../../css/distributionConfig.scss';
+import tableStyles from '../../../css/table.scss';
+import { progressIcon, missingHubData, fontAwesomeLabel } from '../../../css/main.scss';
 
 import CheckboxInput from '../../field/input/CheckboxInput';
 

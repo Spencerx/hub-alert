@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 import TextInput from '../../field/input/TextInput';
 import ServerConfiguration from './ServerConfiguration';
 
-import { alignCenter } from '../../../css/main.css';
-import { emptyLabel } from '../../../css/field.css';
+import { alignCenter } from '../../../css/main.scss';
+import { emptyLabel } from '../../../css/field.scss';
 class SlackConfiguration extends ServerConfiguration {
 	constructor(props) {
 		super(props);

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { checkboxInput } from '../../../css/field.css';
+import { checkboxInput } from '../../../css/field.scss';
 import LabeledField from '../LabeledField';
 
 export default class CheckboxInput extends LabeledField {
